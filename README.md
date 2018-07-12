@@ -11,10 +11,10 @@
 ## Installation
 
 ```bash
-heroku login #register localy throw heroku toolbet
+heroku login #register localy throw heroku toolbelt
 git clone https://github.com/captaincode0/openresty-reverse-proxy.git
 cd openresty-reverse-proxy
-git remote add heroku heroku-repo.gits
+git remote add heroku heroku-repo.git
 
 heroku apps #list applications
 
