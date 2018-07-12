@@ -1,6 +1,6 @@
 {
-	"name": "Spartan Reverse Proxy",
-	"description": "Spartan Reverse Proxy for Rest API",
+	"name": "OpenResty Reverse Proxy",
+	"description": "Reverse Proxy for Rest API",
 	"keywords": [
 		"reverse proxy",
 		"spartan",
